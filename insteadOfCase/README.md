@@ -1,0 +1,1 @@
+Just a quick mess around to show that with interfaces/objects can set the 'state' and respond accordingly without having to go through a switch statement. Might have other uses? not sure yet but want to keep a record.
