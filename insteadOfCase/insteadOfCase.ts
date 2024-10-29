@@ -37,5 +37,5 @@ class Human {
 }
 
 let human = new Human();
-human.changeState(SadState)
+human.changeState(SadState) // could be any of the states and can change it accordingly
 console.log(human.state)
